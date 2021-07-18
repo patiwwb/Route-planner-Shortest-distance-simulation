@@ -5,7 +5,7 @@
 </div>
 
 
-In this project, an A* search algorithm is utilized to implement a path planning algorithm
+In this project,  A* search algorithm is utilized to implement a path planning method.
 It is based on OpenStreetMap API.
 It searches an optimal path from givin start to end position.
 
